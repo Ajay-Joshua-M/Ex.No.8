@@ -70,6 +70,9 @@ To explore how various prompting techniques can be used to generate and manipula
 
 •	Responsiveness to structured instructions (Chain-of-Thought)
 
+### Google Drive
+https://drive.google.com/drive/folders/1hTNMWmSTXRriZVfC0v5KGGuhdYCRBtAO?usp=sharing
+
 ## Result:
 The prompting techniques (zero-shot, few-shot, and CoT) were executed successfully. Each approach demonstrated unique control over the generation process, confirming their usefulness in different audio-related use cases. Tools responded effectively to prompt structure and produced realistic, stylistically rich audio content.
 
