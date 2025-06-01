@@ -70,7 +70,7 @@ To explore how various prompting techniques can be used to generate and manipula
 
 •	Responsiveness to structured instructions (Chain-of-Thought)
 
-### Google Drive
+## Google Drive:
 https://drive.google.com/drive/folders/1hTNMWmSTXRriZVfC0v5KGGuhdYCRBtAO?usp=sharing
 
 ## Result:
